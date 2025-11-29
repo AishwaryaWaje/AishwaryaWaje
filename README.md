@@ -1,6 +1,6 @@
-<div align="center"># 👋 Hi, I'm Aishwarya Waje!</div>
+<div align="center"># 👋 Hi, I'm <b>Aishwarya Waje!</b></div>
 
-<div align="center">🎯 **Aspiring Full-Stack Developer**</div>  
+<div align="center">🎯 Aspiring Full-Stack Developer</div>  
 💡 Passionate about building real-world applications, writing clean code, and learning new technologies.
 
 ---
@@ -8,8 +8,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AishwaryaWaje&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AishwaryaWaje&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -27,7 +27,7 @@
   <img width="12" />
 </div>
 
-### **Frontend Development**
+#### **Frontend Development**
 
 <div align="left">      
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="30" alt="react logo"  />
@@ -40,7 +40,7 @@
   <img width="12" />
 </div>
 
-### **Backend Development**
+#### **Backend Development**
 
 <div align="left">      
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="30" alt="node logo"  />
@@ -49,7 +49,7 @@
   <img width="12" />
 </div>
 
-### **Database**
+#### **Database**
 
 <div align="left">      
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="30" alt="mongoDB logo"  />
@@ -60,7 +60,7 @@
   <img width="12" />
 </div>
 
-### **Other**
+#### **Other**
 
 <div align="left">      
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="30" alt="git logo"  />
@@ -77,12 +77,6 @@
 
 - 📧 Email: *wajeaishwarya@gmail.com*
 - 💼 LinkedIn: *www.linkedin.com/in/aishwaryawaje*
-
----
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
 
