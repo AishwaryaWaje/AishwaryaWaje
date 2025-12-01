@@ -1,25 +1,8 @@
 <div align="center">
-  <h1>👋 Hi, I'm <b>Aishwarya Waje!</b></h1><br>
-  <span align="center">🎯 Aspiring Full-Stack Developer</span>
+  <h1>👋 Hi, I'm <b>Aishwarya Waje!</b></h1>
+  <span>Aspiring Full-Stack Developer</span>
 </div>
-
 💡 Passionate about building real-world applications, writing clean code, and learning new technologies.
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=AishwaryaWaje&show_icons=true&theme=dracula" 
-    height="150" alt="stats graph" 
-  />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishwaryaWaje&layout=compact&theme=dracula" 
-    height="150" alt="languages graph" 
-  />
-</div>
 
 ---
 
